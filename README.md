@@ -1,4 +1,4 @@
-### <img src='/pp.png' height='100' align="center"> Hi there 👋, my name is Renaud
+### Hi there 👋, my name is Renaud
 
 #### I work as Software Architect and Team Leader @ SFEIRLuxembourg | Certified Kubernetes Application Developer
 
