@@ -2,7 +2,7 @@
 
 #### I work as Software Architect and Team Leader @ SFEIRLuxembourg | Certified Kubernetes Application Developer
 
-Skills: Java / Scala / Angular / Kubernetes
+Skills: Java / Scala / Angular / Kubernetes / Go / .Net
 
 - ⚡ Fun fact: Java is our new Cobol 
 
