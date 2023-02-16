@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Renaud
 
-#### I work as Software Architect and Team Leader @ SFEIRLuxembourg | Certified Kubernetes Application Developer
+#### I work as Engineering Director @ SFEIRLuxembourg
 
 Skills: Java / Scala / Angular / Kubernetes / Go / .Net
 
